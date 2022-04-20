@@ -48,5 +48,9 @@
   },
   "devDependencies": {
     "customize-cra": "^1.0.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/lucascruzb/cxvid19.git",
+  "author": "lucascruzb <lucascruz.aluno@unipampa.edu.br>",
+  "license": "MIT"
 }
